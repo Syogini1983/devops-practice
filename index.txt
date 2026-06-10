@@ -1,3 +1,3 @@
 Hi 
-It is my first Sserver
-It is Second Commit.
+It is my first Sserver.
+
